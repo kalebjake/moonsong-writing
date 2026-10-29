@@ -10,7 +10,7 @@ We're publishing it because the patterns it targets (inflated vocabulary, "not X
 
 ## Download
 
-[Download moonsong-writing.zip](https://github.com/kalebjake/moonsong-writing/releases/latest/download/moonsong-writing.zip) for the packaged skill, or read [`SKILL.md`](SKILL.md) directly.
+[Download moonsong-writing.zip](https://github.com/kalebjake/moonsong-writing/raw/main/moonsong-writing.zip) for the packaged skill, or read [`SKILL.md`](SKILL.md) directly.
 
 ## How to use it
 
